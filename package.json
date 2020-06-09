@@ -1,0 +1,15 @@
+{
+  "name": "taho-nordnet",
+  "version": "1.0.0",
+  "description": "Nordnet api for osakesäästötili",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Toni Aho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nordnet-next-api": "^5.1.2"
+  }
+}
